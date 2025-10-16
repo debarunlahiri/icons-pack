@@ -7,6 +7,7 @@
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1RZMcsZbzrDiFhNyJOmo-cKcWAt9qP7Ux
+https://material-icon-explorer-351629856535.us-west1.run.app/
 
 ## Run Locally
 

@@ -1,0 +1,5 @@
+{
+  "name": "Material Icon Explorer",
+  "description": "An application to browse, view, and download Google's Material Design Icons. Users can search for icons, select different styles, and download them as SVG or PNG files in various sizes.",
+  "requestFramePermissions": []
+}
